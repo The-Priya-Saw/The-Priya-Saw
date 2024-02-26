@@ -8,15 +8,15 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwajitpvt" alt="bishwajitpvt" /></a> </p>  -->
 
 
-- 🔭 I’m currently working on **developing my development skills.**
+- 🔭 I’m currently working on **my development skills.**
 
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 I’m learning **Full Stack Web Development.**
 
-- ⚡ One of my hobbies is **sketching and playing games with friends.**
+- ⚡ My hobbies are **painting and music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/BishwajitSama12" target="blank">
+<!-- <a href="https://twitter.com/BishwajitSama12" target="blank"> -->
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bishwajitshakti" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bishwajit-samanta-a1b403195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishwajitsamanta" height="30" width="40" /></a>
 <a href="https://instagram.com/bishwajit_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishwajit_sam" height="30" width="40" /></a>
