@@ -2,7 +2,7 @@
 <h1 align="center">Hello, folks!! 👋</h1>
 <h3 align="centre">My name is Priya Saw and I'm a tech enthusiast. I'm from Navi Mumbai.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bishwajitpvt&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajitpvt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=The-Priya-Saw&label=Profile%20views&color=0e75b6&style=flat" alt="bishwajitpvt" /> </p>
 
 <!--  trophy  -->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwajitpvt" alt="bishwajitpvt" /></a> </p>  -->
