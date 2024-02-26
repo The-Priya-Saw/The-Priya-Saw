@@ -66,6 +66,6 @@
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddha76&show_icons=true&locale=en&layout=compact" alt="The-Priya-Saw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Priya-Saw&show_icons=true&locale=en" alt="The-Priya-Saw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddha76&show_icons=true&locale=en" alt="The-Priya-Saw" /></p>
 -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Priya-Saw&" alt="The-Priya-Saw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddha76&" alt="The-Priya-Saw" /></p>
