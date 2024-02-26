@@ -1,5 +1,4 @@
-![banner](https://user-images.githubusercontent.com/77453811/186984005-faf33c9f-18b4-4e3a-9474-10dc88fe9345.png)
-
+<!--  ![banner](https://user-images.githubusercontent.com/77453811/186984005-faf33c9f-18b4-4e3a-9474-10dc88fe9345.png)  -->
 <h1 align="center">Hello, folks!! 👋</h1>
 <h3 align="centre">My name is Priya Saw and I'm a tech enthusiast. I'm from Navi Mumbai.</h3>
 
